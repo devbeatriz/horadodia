@@ -15,7 +15,7 @@ Hora do dia é um projeto que foi desenvolvido com intuito de aplicar os conceit
 - [x] Criação e uso de `variáveis`
 - [x] Uso do `constructor Date`
 - [x] Condições dentro de `funções`
-- [x] Adicionar imagens `dinamicamente`
+- [x] Adicionar imagem via `JavaScript`
 
 ##
 <p> Made with ♥ by Beatriz Rodrigues. <a href="https://linktr.ee/devbeatriz">👋 Get in touch!</a></p>
