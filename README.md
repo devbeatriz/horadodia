@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Hora do dia é um projeto que foi desenvolvido com intuito de aplicar os conceitos básicos adquiridos em JavaScript, como criação de uma função, chamada, condições e testes dentro da mesma.
+Projeto onde o horário de acesso ao site é importado em tempo real, retornando assim: texto, imagem e background personalizado de acordo com o horário do dia.
 
 ## 📝 Aprendizados
 
